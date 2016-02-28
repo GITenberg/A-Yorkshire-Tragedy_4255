@@ -1,0 +1,24 @@
+_repo: A-Yorkshire-Tragedy_4255
+creator:
+  author:
+    agent_name: Shakespeare (spurious and doubtful works)
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '654'
+    url: http://www.gutenberg.org/2009/agents/654
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4255'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Yorkshire (England) -- Drama'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Spurious and doubtful works'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+title: A Yorkshire Tragedy
+url: http://www.gutenberg.org/ebooks/4255
